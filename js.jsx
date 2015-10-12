@@ -2,6 +2,9 @@
 //var React = require('react');
 //var ReactDOM = require('react-dom');
 
+//var Parse = require('parse');
+//var ParseReact = require('parse-react');
+
 var HelloComponent = React.createClass({
     displayName: 'HelloComponent',
     render: function () {
