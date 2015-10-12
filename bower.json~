@@ -1,0 +1,8 @@
+{
+"name": "feedis",
+"version": "0.0.1",
+"dependencies": {
+"react": "~0.14"
+},
+"devDependencies": {}
+}
